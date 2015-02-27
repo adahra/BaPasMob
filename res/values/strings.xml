@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BaPasMob</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tampilan_utama">TampilanUtama</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">About</string>
+    <string name="title_section3">Exit</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Home</string>
+    <string name="title_activity_menu_utam">MenuUtam</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_publikasi">Publikasi</string>
+    <string name="title_activity_berita">Berita</string>
+    <string name="title_activity_tentang_kami">TentangKami</string>
+    <string name="ten_kam_asas_maksud_tujuan">Asas, Maksud dan Tujuan</string>
+    <string name="ten_kam_code_of_conduct_bank">Code of Conduct Bank</string>
+    <string name="ten_kam_struktur_organisasi">Struktur Organisasi</string>
+    <string name="ten_kam_pimpinan_direksi">Pimpinan dan Direksi</string>
+    <string name="ten_kam_kantor_kas">Kantor Kas</string>
+    <string name="ten_kam_sejarah">Sejarah</string>
+    <string name="tam_berita">Nanti Berita Ditampilkan Disini Langsung Diambil dari Website, masih dalam tahap pengembangan.</string>
+    <string name="tam_pub_neraca">Neraca</string>
+    <string name="tam_pub_laba_dan_rugi">Laba dan Rugi</string>
+    <string name="tam_pub_komitmen_kontinjensi">Komitmen dan Kontinjensi</string>
+    <string name="tam_pub_info_lain">Informasi Lainnya</string>
+    <string name="tam_home_teks">Isi Diambil Langsung dari Website</string>
+
+</resources>

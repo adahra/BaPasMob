@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.nauin.android.bapasmob.Publikasi" >
+
+    <Button
+        android:id="@+id/btnPubNeraca"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/tam_pub_neraca" />
+
+    <Button
+        android:id="@+id/btnPubLabaRugi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnPubNeraca"
+        android:layout_alignStart="@+id/btnPubNeraca"
+        android:layout_below="@+id/btnPubNeraca"
+        android:text="@string/tam_pub_laba_dan_rugi" />
+
+    <Button
+        android:id="@+id/btnPubKomitKontin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnPubLabaRugi"
+        android:layout_alignStart="@+id/btnPubLabaRugi"
+        android:layout_below="@+id/btnPubLabaRugi"
+        android:text="@string/tam_pub_komitmen_kontinjensi" />
+
+    <Button
+        android:id="@+id/btnPubInfoLain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnPubKomitKontin"
+        android:layout_alignStart="@+id/btnPubKomitKontin"
+        android:layout_below="@+id/btnPubKomitKontin"
+        android:text="@string/tam_pub_info_lain" />
+
+</RelativeLayout>
